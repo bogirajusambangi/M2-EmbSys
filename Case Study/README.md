@@ -29,3 +29,16 @@
 - Timers are used to set the timing as per the user's option.
 ## Induction Coil 
 - Induction coil is used to produce the required heat.
+
+## High Level Requirements
+|SL.no| High Level Requirements|
+|-----|------------------------|
+| 1| Cooking style options|
+|2| Timing and Temperature|
+|3| Low power consumption|
+
+## Low Level Requirments
+|SL.no| Low Level Requirments|
+|-----|--------------------------|
+|1| Timer Display|
+|2| Buttons to change options|
