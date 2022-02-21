@@ -28,8 +28,9 @@
 ## Timer
 - Timers are used to set the timing as per the user's option.
 ## Induction Coil 
-- Induction coil is used to produce the required heat.
-
+- Induction coil is used to produce the required heat from current.
+## Requirements
+- When we start any product development before we need to do market analysis and survey because what type of product they are showing interest and problems of existing product to rectify and enable that solutions in our product.
 ## High Level Requirements
 |SL.no| High Level Requirements|
 |-----|------------------------|
@@ -42,3 +43,16 @@
 |-----|--------------------------|
 |1| Timer Display|
 |2| Buttons to change options|
+## System Design
+- In this phase we create block diagrams,flow charts and select the required components to use and divide into building blocks of our design.
+## Sub System Design
+- We design each sub system and make it to suitable to our product in this example we consider as heating block, timing block etc.
+## Coding
+- We code according to our requirments and send to testing and testers test it vigoriously.
+## Sub System Testing
+- where we check each building block is working fine or not.
+## System Testing
+- Here we check thefull system to check desired out put is coming or not. Here we check the stove is cooking well and produces desired output or not etc.
+## Validation
+- Here they check the product is working fine or not and make sure all HLR and LLR are meeting to send mass production.
+
