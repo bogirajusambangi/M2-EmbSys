@@ -13,4 +13,19 @@
 - The powersupply would be the AC 230V Which can be standard distribution of power system in india.
 ## Rectifier circuit 
 - Used for current conversion that is from AC to DC Which used for many system like Microcontroller,Sensor,Display etc. 
-
+## User Entry
+- Where user set their timer and heat  to cook the dish they want to do .
+## Display
+- The Display is used to display the time remaining to cook and user options to slect.
+## Voltage and Current Sensing unit
+- These sensors check the current and voltage inputs and outputs and sends to microcontroller to protect or necessary actions to take place.
+## Temperature Sensor
+- It sensese the temperature to Used to measure and set the temperature as per the option given by the user.
+## Cooling fan 
+- To reduce the heat that is produced while the machine is ON and keep the devices safe from overheat.
+## Memory
+- To store the Program and data.
+## Timer
+- Timers are used to set the timing as per the user's option.
+## Induction Coil 
+- Induction coil is used to produce the required heat.
