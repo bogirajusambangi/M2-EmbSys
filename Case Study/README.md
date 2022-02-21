@@ -9,3 +9,8 @@
    
 ## Microcontroller
 - Microcontroller is controlling unit of the system. It Controlles the all operations happening in Induction Stove
+## Power Supply
+- The powersupply would be the AC 230V Which can be standard distribution of power system in india.
+## Rectifier circuit 
+- Used for current conversion that is from AC to DC Which used for many system like Microcontroller,Sensor,Display etc. 
+
