@@ -13,7 +13,7 @@
     -  A buzzer or beeper is an audio signaling device, which produces a beep sound when it is powered up.
 ## Temperature sensor
     - A sensor is a device that detects and responds to some type of input from the physical environment.
-    - The specific input could be light, heat, motion, moisture, pressure, or any one of a great number of other environmental phenomena.
+    - The specific input could be light, heat, motion, moisture, pressure, or any one of environmental phenomena.
     - The sensor is used to measure the temperature and it sends analog data to ADC. 
 ## Actuator
     - An actuator is a device that produces a motion by converting energy and signals going into the system.
