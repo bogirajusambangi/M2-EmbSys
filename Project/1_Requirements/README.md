@@ -11,5 +11,7 @@
     - The buzzer is used to go get a beep sound when it is powered up.
 ## Temperature sensor
     - The sensor is used to measure the temperature and it sends analog data to ADC. 
+## Actuator
+    - Here the actuator used like a switch to turn on particular component.
 
   
