@@ -19,6 +19,18 @@
     - An actuator is a device that produces a motion by converting energy and signals going into the system.
     - The motion it produces can be either rotary or linear. 
     - Here the actuator used like a switch to turn on particular component.
+## High Level Requirements
+| HLR NO| Discription|
+|-------|------------|
+|1| Temperature displaying|
+|2| Alarm|
+|3| Turn on Switch|
+## Low Level Requirements
+| LLR NO| Discription|
+|-----|------|
+|1| 16x2 LCD|
+|2| Buzzer|
+|3| Actuators|
 
 
   
