@@ -7,6 +7,9 @@
     - This is the heart of the system. It is a clock driven chip where we can manipulate the data according to our requirments.
 ## LCD
     - This is a 16x2 Liquid crystal display.It can capable to display 32 characters at a time in constant mode. 
-
+## Buzzer
+    - The buzzer is used to go get a beep sound when it is powered up.
+## Temperature sensor
+    - The sensor is used to measure the temperature and it sends analog data to ADC. 
 
   
