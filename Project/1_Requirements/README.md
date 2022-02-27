@@ -5,13 +5,20 @@
 # Components
 ## Microcontroller
     - This is the heart of the system. It is a clock driven chip where we can manipulate the data according to our requirments.
+    - ATMEGA328 Micro controller is an 8-bit, 28-Pin AVR Microcontroller, manufactured by Microchip.
 ## LCD
-    - This is a 16x2 Liquid crystal display.It can capable to display 32 characters at a time in constant mode. 
+    - An electronic device that is used to display data and the message is known as LCD, This is a 16x2 Liquid crystal display.
+    - It includes 16 Columns & 2 Rows so it can display 32 characters
 ## Buzzer
-    - The buzzer is used to go get a beep sound when it is powered up.
+    -  A buzzer or beeper is an audio signaling device, which produces a beep sound when it is powered up.
 ## Temperature sensor
+    - A sensor is a device that detects and responds to some type of input from the physical environment.
+    - The specific input could be light, heat, motion, moisture, pressure, or any one of a great number of other environmental phenomena.
     - The sensor is used to measure the temperature and it sends analog data to ADC. 
 ## Actuator
+    - An actuator is a device that produces a motion by converting energy and signals going into the system.
+    - The motion it produces can be either rotary or linear. 
     - Here the actuator used like a switch to turn on particular component.
+
 
   
