@@ -43,7 +43,8 @@
 # Behavioural Diagram
 
    ![Behavioural](https://user-images.githubusercontent.com/98826655/155915917-99c982e3-68bc-40fc-bb47-dbef9e30da99.png)
+   
+# Block Diagram
 
+![Circuit Diagram ](https://user-images.githubusercontent.com/98826655/157273238-fb0b66e2-cc27-4b9f-9e42-e87464fbf35f.PNG)
 
-
-  
