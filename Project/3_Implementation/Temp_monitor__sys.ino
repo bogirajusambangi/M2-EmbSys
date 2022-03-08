@@ -1,3 +1,13 @@
+/**
+ * @file Temp_monitor__sys.ino
+ * @author Sambangi Bogiraju (bogirajusambangi@gmail.com)
+ * @brief  Project on Temperature Monitoring System using Atmega32p
+ * @version 0.1
+ * @date 2022-03-08
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <LiquidCrystal.h> // Header file to use Inbuilt LCD Commands
 float temp;        // Variable Temp  to store sensor value
 int sensor = A0;   // Assigning Analog0 To sensor
